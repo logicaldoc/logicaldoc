@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Cayman theme
+description: LogicalDOC is an open source document management software system.
+show_downloads: true
+google_analytics:
