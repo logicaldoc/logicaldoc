@@ -24,5 +24,5 @@ Using the LogicalDOC is very secure. It is stored in a central repository and is
 
 There are many options available: Community, Business, and Enterprise & Cloud. When you choose the Community Edition, you can use the software for free. Otherwise, it is quite limited. But if the basic functionality is enough, you can save the money. 
 
-Save time, improve productivity, and increase revenue with [LogicalDOC opensource DMS](https://www.logicaldoc.com).!
+Save time, improve productivity, and increase revenue with [LogicalDOC opensource DMS](https://www.logicaldoc.com)!
 
